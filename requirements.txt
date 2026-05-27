@@ -5,6 +5,6 @@ plotly
 pillow
 requests
 openpyxl
-matplotlib.pyplot
+matplotlib
 seaborn
 
